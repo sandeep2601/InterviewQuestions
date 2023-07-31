@@ -15,3 +15,7 @@
 # Solid Principles
 
     - https://www.youtube.com/watch?v=xmI-Ubq_AAc&t=193s
+
+# WEB API
+
+    - https://www.youtube.com/watch?v=FySr1tusL8c
