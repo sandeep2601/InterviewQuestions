@@ -19,3 +19,7 @@
 # WEB API
 
     - https://www.youtube.com/watch?v=FySr1tusL8c
+
+# SQL Server
+
+    - https://www.youtube.com/playlist?list=PL3aZbxdSiCbOA4X-mOce9SNfbDWM5G0WR
